@@ -25,7 +25,7 @@ Hyunsang(Harry) Cho
 ```
 <hr>
 
-[![**Study Music**](/pinkbin/)](https://youtu.be/cMTdq4VGqoI/)
+[![**Study Music**](hyunsang4072/maple-pinkbin.gif)](https://youtu.be/cMTdq4VGqoI/)
 [**Study Music**](https://youtu.be/cMTdq4VGqoI/) 🌠
 
 ## 🛠️ My Favorite Tools
