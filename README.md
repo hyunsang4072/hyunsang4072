@@ -95,8 +95,8 @@ Hyunsang(Harry) Cho
     <a href="https://github.com/hyunsang4072/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat"></a>
-    <a href="https://github.com/hyunsang4072/"><img alt="Twitch" src="https://img.shields.io/badge/<handle>-%239146FF.svg?logo=Twitch&logoColor=white&style=flat"></a>
-    <a href="https://github.com/hyunsang4072/"><img alt="Youtube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat"></a>
+    <a href="https://github.com/hyunsang4072/"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=flat"></a>
+    <a href="https://github.com/hyunsang4072/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat"></a>
 </p>
 
 
