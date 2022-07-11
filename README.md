@@ -25,7 +25,10 @@ Hyunsang(Harry) Cho
 ```
 <hr>
 
+<p align="center">
 [![**Study Music**](https://github.com/hyunsang4072/hyunsang4072/blob/main/i016360526285.gif "핑크빈")](https://youtu.be/cMTdq4VGqoI/)
+</p>
+
 
 ## 🛠️ My Favorite Tools
 
