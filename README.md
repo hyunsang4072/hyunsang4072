@@ -1,15 +1,21 @@
 <h1 align="center">
-How You Doin'?
-  <img src=https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.gif?cid=ecf05e47lye5ug5dotr4umtbz97gksp1kaizxhatnlou0gvk&rid=200.gif&ct=g width="40"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=hyunsang4072&label=Profile%20Views&color=0e75b6&style=flat" align='left' alt="profile image" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
-<br/>
+How You Doin'?  
+<img src=https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.gif?cid=ecf05e47lye5ug5dotr4umtbz97gksp1kaizxhatnlou0gvk&rid=200.gif&ct=g width="40"></h1>  
+<br>
+
+![](https://komarev.com/ghpvc/?username=hyunsang4072&color=grey)
+![GitHub followers](https://img.shields.io/github/followers/hyunsang4072?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/hyunsang4072?style=social)
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_message=online&url=https%3A%2F%2Fhyunsang4072.github.io%2F)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hyunsang4072/hyunsang4072.github.io?label=devlog%20activity)
+![GitHub last commit](https://img.shields.io/github/last-commit/hyunsang4072/hyunsang4072.github.io?label=devlog%20update)
+<br>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C"></a>
 </p>
 
-<img align="left" src="https://github.com/hyunsang4072/hyunsang4072/blob/main/%EB%A9%8D%EC%A7%B1%EA%B5%AC.jpg" alt="fav anime to watch" width="320" />
+<img align="left" src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.18169-9/27867228_100382190786556_5690948108794236797_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=7w7cC_t2kX4AX9o27Dx&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_lRUjCKfdKNXAHorOCLoKssXUfcpHYjp_D6eFdsWCDDA&oe=62F26705" alt="fav anime to watch" width="303" />
 <hr>
 
 ```
@@ -21,8 +27,9 @@ Hyunsang(Harry) Cho
 🔭 Working on personal website(Devlog) for now
 🌱 Learning about Computer Science(and more to come!)
 🌟 Main languages : Python, C, Linux, C#(Unity)
-🚩 Main goal is to travel around the world & help those in need
-```
+🚩 My goal is to travel around the world & help those in need
+```  
+
 <hr>
 
 
@@ -47,12 +54,6 @@ Hyunsang(Harry) Cho
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
@@ -63,25 +64,20 @@ Hyunsang(Harry) Cho
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+
 </p>
 
 ### 💻 Software and Tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-008678.svg?logo=microsoft-excel&logoColor=green"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=purple"></a>
 </p>
 
 ### 👨🏽‍💻 Workspace
