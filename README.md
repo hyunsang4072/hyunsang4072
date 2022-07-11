@@ -115,7 +115,7 @@ Hyunsang(Harry) Cho
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hyunsang4072&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsang4072&langs_count=8&theme=react&layout=compact) |
 
 <!-- Github Stats -->
-[![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072)](https://github.com/hyunsang4072/)
+[![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&theme=react)](https://github.com/hyunsang4072/)
 
 
 <table style="border: none">
