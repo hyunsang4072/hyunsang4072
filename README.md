@@ -1,13 +1,12 @@
 <h1 align="center">
-Hi, Hyunsang(Harry) Cho!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+How You Doin'?
+  <img src=https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.gif?cid=ecf05e47lye5ug5dotr4umtbz97gksp1kaizxhatnlou0gvk&rid=200.gif&ct=g width="40"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=hyunsang4072&label=Profile%20Views&color=0e75b6&style=flat" align='left' alt="profile image" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="fav anime to watch" width="320" />
@@ -18,15 +17,16 @@ Hyunsang(Harry) Cho
 -------------------------
 💻 I am a software developer
 📚 I am a second-year student @ UC Berkeley; planning on majoring in Computer Science/Data Science
-📝 I have a strong interest in game devevlopment
+📝 I have a strong interest in game development
 🔭 Working on personal website(Devlog) for now
 🌱 Learning about Computer Science(and more to come!)
 🌟 Main languages : Python, C, Linux, C#(Unity)
 🚩 Main goal is to travel around the world & help those in need
-🎵 Study music(video) : 
 ```
 <hr>
 
+[![**Study Music**](/pinkbin/)](https://youtu.be/cMTdq4VGqoI/)
+[**Study Music**](https://youtu.be/cMTdq4VGqoI/) 🌠
 
 ## 🛠️ My Favorite Tools
 
