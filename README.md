@@ -5,10 +5,7 @@ How You Doin'?
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C)](https://git.io/typing-svg)  
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="fav anime to watch" width="320" />
 <hr>
