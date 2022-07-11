@@ -18,7 +18,7 @@ Hyunsang(Harry) Cho
 -------------------------
 💻 I am a software developer
 📚 I am a second-year student @ UC Berkeley; planning on majoring in Computer Science/Data Science
-📝 I have a strong interest in game devevlopment
+📝 I have a strong interest in game development
 🔭 Working on personal website(Devlog) for now
 🌱 Learning about Computer Science(and more to come!)
 🌟 Main languages : Python, C, Linux, C#(Unity)
