@@ -42,6 +42,8 @@ Hyunsang(Harry) Cho
 ### 👨‍💻 Programming Languages
 
 
+<!-- badges -->
+
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -54,6 +56,8 @@ Hyunsang(Harry) Cho
 
 ### 🧰 Frameworks and Libraries
 
+<!-- badges -->
+
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
@@ -62,6 +66,8 @@ Hyunsang(Harry) Cho
 
 ### 🗄️ Databases and Cloud Hosting
 
+<!-- badges -->
+
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
@@ -69,6 +75,8 @@ Hyunsang(Harry) Cho
 </p>
 
 ### 💻 Software and Tools
+
+<!-- badges -->
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -83,6 +91,9 @@ Hyunsang(Harry) Cho
 </p>
 
 ### 👨🏽‍💻 Workspace
+
+<!-- badges -->
+
 <p>
     <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -92,18 +103,19 @@ Hyunsang(Harry) Cho
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Hyunsang's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
+| [![Hyunsang's github activity graph](https://activity-graph.herokuapp.com/graph?username=hyunsang4072&bg_color=e8e3de&color=000000&line=b3bd99&point=929b82&area=true&hide_border=true)](https://github.com/hyunsang4072/hyunsang4072) |
+| ![Hyunsang's github stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&show_icons=true&theme=react)              | 
+| ![Hyunsang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyunsang4072&theme=react)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Hyunsang's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=hyunsang4072&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsang4072&langs_count=8&theme=react&layout=compact) |
 
-
+<!-- Github Stats -->
+[![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072)](https://github.com/hyunsang4072/)
 
 
 <table style="border: none">
