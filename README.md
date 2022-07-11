@@ -9,7 +9,7 @@ How You Doin'?
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="fav anime to watch" width="320" />
+<img align="left" src="https://github.com/hyunsang4072/hyunsang4072/blob/main/%EB%A9%8D%EC%A7%B1%EA%B5%AC.jpg" alt="fav anime to watch" width="320" />
 <hr>
 
 ```
