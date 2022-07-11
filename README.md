@@ -41,6 +41,7 @@ Hyunsang(Harry) Cho
 
 ### 👨‍💻 Programming Languages
 
+
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -78,6 +79,7 @@ Hyunsang(Harry) Cho
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=purple"></a>
+    <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
 </p>
 
 ### 👨🏽‍💻 Workspace
