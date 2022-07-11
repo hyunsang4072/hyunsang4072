@@ -39,6 +39,7 @@ Hyunsang(Harry) Cho
 ## 🛠️ Tools I use daily
 
 <!-- For badges, visit https://mdb.pushkaryadav.in/generate -->
+<!-- For more badges, visit https://ileriayo.github.io/markdown-badges/ -->
 
 ### 👨‍💻 Programming Languages
 
@@ -143,8 +144,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+Last Edited On: 12/07/2022
 
 
 
