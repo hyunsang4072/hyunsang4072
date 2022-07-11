@@ -22,10 +22,10 @@ Hyunsang(Harry) Cho
 🌱 Learning about Computer Science(and more to come!)
 🌟 Main languages : Python, C, Linux, C#(Unity)
 🚩 Main goal is to travel around the world & help those in need
-🎵 Study music(video) : 
 ```
 <hr>
 
+[**Study Music**](https://youtu.be/cMTdq4VGqoI/) 🌠
 
 ## 🛠️ My Favorite Tools
 
