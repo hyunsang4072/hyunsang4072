@@ -29,7 +29,7 @@ Hyunsang(Harry) Cho
 🚩 My goal:
     - travel around the world 🗺
     - help those in need 🖤
-    - learn whatever fascinates me(= be productive)
+    - learn whatever fascinates me(= be productive) ⏳
 ```  
 
 <hr>
