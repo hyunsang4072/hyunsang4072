@@ -25,7 +25,7 @@ Hyunsang(Harry) Cho
 📚 I am a second-year student @ UC Berkeley; planning on majoring in Computer Science/Data Science
 📝 I have a strong interest in game development
 🔭 Working on personal website(Devlog) for now
-🌟 Main languages : Python, C, Linux, C#(Unity)
+🌟 Main languages : Python, C, Linux, Java, C#(Unity)
 🚩 My goal:
     - travel around the world 🗺
     - help those in need 🖤
@@ -122,29 +122,7 @@ Hyunsang(Harry) Cho
 [![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&theme=react)](https://github.com/hyunsang4072/)
 
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
+![pixel art](https://media1.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g)
 
 ------
 Last Edited On: 12/07/2022
