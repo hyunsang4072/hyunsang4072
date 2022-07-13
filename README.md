@@ -122,10 +122,11 @@ Hyunsang(Harry) Cho
 [![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&theme=react)](https://github.com/hyunsang4072/)
 
 
-![pixel art](https://media1.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g)
+![pixel art](https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g)
 
 ------
-Last Edited On: 12/07/2022
+
+Last Edited On: 14/07/2022
 
 
 
