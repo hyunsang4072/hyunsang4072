@@ -121,7 +121,7 @@ Hyunsang(Harry) Cho
 <!-- Github Stats -->
 [![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&theme=react)](https://github.com/hyunsang4072/)
 
-<img src="https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g" title="just wow" alt="pixel art" width="1000"/>
+<img src="https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g" title="just wow" alt="pixel art" length="1000"/>
 
 <ins>[Let's take a moment to appreciate this pixel art](https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g)</ins> 🙏
 
