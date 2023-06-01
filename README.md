@@ -1,6 +1,6 @@
 <h1 align="center">
 How You Doin'?  
-<img src=https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.gif?cid=ecf05e47lye5ug5dotr4umtbz97gksp1kaizxhatnlou0gvk&rid=200.gif&ct=g width="40"></h1>  
+<img src=https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/200.gif?cid=ecf05e47lye5ug5dotr4umtbz97gksp1kaizxhatnlou0gvk&rid=200.gif&ct=g width="40" title="Joey"></h1>  
 <br>
 
 ![](https://komarev.com/ghpvc/?username=hyunsang4072&color=grey)
@@ -35,7 +35,7 @@ Hyunsang(Harry) Cho
 <hr>
 
 
-[![Study Music](https://github.com/hyunsang4072/hyunsang4072/blob/main/i016360526285.gif "핑크빈")](https://youtu.be/cMTdq4VGqoI/)
+[![Study Music](https://github.com/hyunsang4072/hyunsang4072/blob/main/i016360526285.gif "Pink Bean")](https://youtu.be/cMTdq4VGqoI/)
 
 
 
@@ -121,7 +121,7 @@ Hyunsang(Harry) Cho
 <!-- Github Stats -->
 [![Hyunsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunsang4072&theme=react)](https://github.com/hyunsang4072/)
 
-<img src="https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g" title="just wow" alt="pixel art" length="1700"/>
+<img src="https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g" title="cool pixel art" alt="pixel art" length="1700"/>
 
 <ins>[Let's take a moment to appreciate this pixel art](https://media0.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47zvjr6j7mmhosz3yrh4rveuyihgtugqjol8z4xesb&rid=giphy.gif&ct=g)</ins> 🙏
 
