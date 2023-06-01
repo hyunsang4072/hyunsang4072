@@ -15,7 +15,7 @@ How You Doin'?
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C"></a>
 </p>
 
-<img align="left" src="https://cdn.vox-cdn.com/thumbor/pniDM7LBx-5qPTcwhgR-IexdSnI=/0x0:1914x1079/1400x933/filters:focal(804x387:1110x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70972539/image_2022_06_13_170932655.0.png)" alt="fav anime to watch" width="303" />
+<img align="left" src="https://static.wikia.nocookie.net/onepunchman/images/8/82/Saitama_Manga.png/revision/latest?cb=20220825051134" alt="fav anime to watch" width="303" />
 <hr>
 
 ```
