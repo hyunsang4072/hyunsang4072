@@ -6,7 +6,7 @@ How You Doin'?
 ![](https://komarev.com/ghpvc/?username=hyunsang4072&color=grey)
 ![GitHub followers](https://img.shields.io/github/followers/hyunsang4072?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/hyunsang4072?style=social)
-![Website](https://img.shields.io/website?down_color=red&down_message=down&up_message=online&url=https%3A%2F%2Fhyunsang4072.github.io%2F img src="https://hyunsang4072.github.io/")
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_message=online&url=https%3A%2F%2Fhyunsang4072.github.io%2F)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hyunsang4072/hyunsang4072.github.io?label=devlog%20activity)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hyunsang4072/hyunsang4072.github.io?label=devlog%20update)
 <br>
