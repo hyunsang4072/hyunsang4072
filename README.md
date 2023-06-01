@@ -15,7 +15,7 @@ How You Doin'?
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=333333&center=true&vCenter=true&lines=Hello+World!+%F0%9F%8C%8F;Welcome+to+my+Github+%F0%9F%8E%AC;Love+learning+interesting+stuff+%F0%9F%96%A4;Addicted+to+Coffee+%E2%98%95;ML+%2F+AI+%2F+DS+%2F+CS+%F0%9F%8C%8C"></a>
 </p>
 
-<img align="left" src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.18169-9/27867228_100382190786556_5690948108794236797_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=7w7cC_t2kX4AX9o27Dx&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_lRUjCKfdKNXAHorOCLoKssXUfcpHYjp_D6eFdsWCDDA&oe=62F26705" alt="fav anime to watch" width="303" />
+<img align="left" src="[https://scontent-ssn1-1.xx.fbcdn.net/v/t1.18169-9/27867228_100382190786556_5690948108794236797_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=7w7cC_t2kX4AX9o27Dx&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_lRUjCKfdKNXAHorOCLoKssXUfcpHYjp_D6eFdsWCDDA&oe=62F26705](https://en.wikipedia.org/wiki/One-Punch_Man)" alt="fav anime to watch" width="303" />
 <hr>
 
 ```
