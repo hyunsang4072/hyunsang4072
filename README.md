@@ -21,11 +21,11 @@ How You Doin'?
 ```
 Hyunsang(Harry) Cho
 -------------------------
-💻 I am a software developer
-📚 I am a second-year student @ UC Berkeley; planning on majoring in Computer Science/Data Science
-📝 I have a strong interest in game development
-🔭 Working on personal website(Devlog) for now
-🌟 Main languages : Python, C, Linux, Java, C#(Unity)
+💻 Software Engineering + Data Analyst
+📚 I am a rising junior @ UC Berkeley, studying CS + DS
+📝 Interested in AI/ML, Web and Game development
+🔭 Working on personal website(Devlog) + projects
+🌟 Main languages : Python, C, Linux, Java, C#(Unity), C++
 🚩 My goal:
     - travel around the world 🗺
     - help those in need 🖤
