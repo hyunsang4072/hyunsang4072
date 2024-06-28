@@ -63,7 +63,7 @@ Hyunsang(Harry) Cho
 <!-- badges -->
 
 <p>
-    <a href="https://github.com/hyunsang4072/"><img alt="React" src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"></a>
+    <a href="https://github.com/hyunsang4072/"><img alt="React" src="https://img.shields.io/react/v/react.svg?logo=react"></a>
     <a href="https://github.com/hyunsang4072/"></a>
     <a href="https://github.com/hyunsang4072/"></a>
     <a href="https://github.com/hyunsang4072/"></a>
