@@ -57,6 +57,8 @@ Hyunsang(Harry) Cho
     <a href="https://github.com/hyunsang4072/"><img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Cpp" src="https://unpkg.com/simple-icons@v12/icons/cplusplus.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="TS" src="https://unpkg.com/simple-icons@v12/icons/typescript.svg"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -64,12 +66,12 @@ Hyunsang(Harry) Cho
 
 <p>
     <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="React" src="https://unpkg.com/simple-icons@v12/icons/react.svg"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
-    <a href="https://github.com/hyunsang4072/"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Vite" src="https://unpkg.com/simple-icons@v12/icons/vite.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Express" src="https://unpkg.com/simple-icons@v12/icons/express.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Pandas" src="https://unpkg.com/simple-icons@v12/icons/pandas.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="scikit-learn" src="https://unpkg.com/simple-icons@v12/icons/scikitlearn.svg"></a>
+<!--     <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="seaborn" src="https://unpkg.com/simple-icons@v12/icons/seaborn.svg"></a> -->
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Numpy" src="https://unpkg.com/simple-icons@v12/icons/numpy.svg"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white&style=flat"></a>
