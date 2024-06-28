@@ -97,6 +97,8 @@ Hyunsang(Harry) Cho
     <a href="https://github.com/hyunsang4072/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat"></a>
 </p>
 
+<!-- badges -->
+
 ### Misc.
 
 <!-- badges -->
@@ -107,6 +109,8 @@ Hyunsang(Harry) Cho
     <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Figma" src="https://unpkg.com/simple-icons@v12/icons/figma.svg"></a>
     <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Jira" src="https://unpkg.com/simple-icons@v12/icons/jira.svg"></a>
 </p>
+
+<!-- badges -->
 
 ### 👨🏽‍💻 Socials
 
