@@ -83,6 +83,8 @@ Hyunsang(Harry) Cho
 <!-- badges -->
 
 <p>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="PostgreSQL" src="https://unpkg.com/simple-icons@v12/icons/postgresql.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="SQLite" src="https://unpkg.com/simple-icons@v12/icons/sqlite.svg"></a>
     <a href="https://github.com/hyunsang4072/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat"></a>
 
 </p>
@@ -93,6 +95,17 @@ Hyunsang(Harry) Cho
 
 <p>
     <a href="https://github.com/hyunsang4072/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat"></a>
+</p>
+
+### Misc.
+
+<!-- badges -->
+
+<p>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Jupyter" src="https://unpkg.com/simple-icons@v12/icons/jupyter.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Cloudflare" src="https://unpkg.com/simple-icons@v12/icons/cloudflare.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Figma" src="https://unpkg.com/simple-icons@v12/icons/figma.svg"></a>
+    <a href="https://github.com/hyunsang4072/"><img height="20" width="20" alt="Jira" src="https://unpkg.com/simple-icons@v12/icons/jira.svg"></a>
 </p>
 
 ### 👨🏽‍💻 Socials
